@@ -1,0 +1,44 @@
+*{margin: 0;padding: 0;}
+.header{
+    height: 60px;
+    text-align: center;
+    background-color:#E0FFFF;
+    line-height: 60px;
+    color: #333;
+ }   
+body{
+    background-color: aliceblue;
+}
+.content{
+    /* 让块元素水平居中 */
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border: 1px solid silver;
+    /* background-image: url(images/timg2.jpg); */
+    padding:10px;
+}
+.search{
+    width:284px;
+    height:35px;
+}
+.btn{
+    width: 100px;
+    height: 33px;
+}
+.imagesl{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+}
+.title{
+    margin-top: 27px;
+    margin-left: 41px;
+    color: #00C4FC;
+}
+p{
+    padding: 5px;
+    color:#333;
+}
+
+
